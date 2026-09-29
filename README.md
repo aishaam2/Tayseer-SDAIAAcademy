@@ -30,11 +30,11 @@ This project analyzes Tayseer's service channel usage and customer satisfaction 
 
 ### Transaction Share Over Time
 
-![Transaction Share Over Time](transaction_share_over_time.png)
+![Transaction Share Over Time](transaction_share_over_time-2.png)
 
 ### Customer Satisfaction by Channel
 
-![Customer Satisfaction by Channel](csat_by_channel.png)
+![Customer Satisfaction by Channel](csat_by_channel-2.png)
 
 
 ##  Story
