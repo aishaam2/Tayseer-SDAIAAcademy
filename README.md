@@ -26,6 +26,17 @@ This project analyzes Tayseer's service channel usage and customer satisfaction 
 
 **CSAT:** Customer satisfaction was calculated as a weighted average using unique users, giving greater weight to CSAT values representing more users.
 
+## Visualizations
+
+### Transaction Share Over Time
+
+![Transaction Share Over Time](transaction_share_over_time.png)
+
+### Customer Satisfaction by Channel
+
+![Customer Satisfaction by Channel](csat_by_channel.png)
+
+
 ##  Story
 
 The Mobile App's share of total transactions increased substantially over the observed period, while it also recorded the highest customer satisfaction among the four service channels. Its transaction share increased from **below 20% in 2021** to approximately **50% in 2026**, while its weighted CSAT was approximately **4.5/5**, compared with approximately **3.5/5** for Branch, which had the lowest CSAT. Based on these findings, Tayseer should continue supporting the growing use of the Mobile App while investigating opportunities to improve the customer experience in Branch services.
