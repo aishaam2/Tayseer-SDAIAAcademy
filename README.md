@@ -5,11 +5,13 @@
 
 **Student:** Aisha AlMajed
 
+
+**SDAIA Academy:** https://github.com/SDAIAAcademy
 ## Project Description
 
 This project analyzes Tayseer's service channel usage and customer satisfaction to understand how channel usage has changed over time and how customer satisfaction differs across channels. The analysis focuses on transaction share trends and weighted CSAT across Web, Mobile App, Call Centre, and Branch.
 
-**SDAIA Academy:** https://github.com/SDAIAAcademy
+
 
 ##  Audience, Decision Question & Scope
 
