@@ -34,4 +34,4 @@ The Mobile App's share of total transactions increased substantially over the ob
 
 ## Chart Choice & AI Check
 
-A line chart was chosen to show changes in transaction share over time, while a bar chart was chosen to compare customer satisfaction across service channels. I checked the calculations, aggregation methods, channel values, and chart outputs against the original dataset. AI was used to assist with code and wording.
+A line chart was chosen to show changes in transaction share over time, while a bar chart was chosen to compare customer satisfaction across service channels. AI was used to assist with code and wording.
