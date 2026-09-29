@@ -2,9 +2,7 @@
 
 **Course:** SDA-DSC-112 — Data Visualization and Storytelling
 
-
 **Student:** Aisha AlMajed
-
 
 **SDAIA Academy:** https://github.com/SDAIAAcademy
 ## Project Description
