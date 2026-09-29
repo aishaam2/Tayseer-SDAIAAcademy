@@ -9,7 +9,7 @@ This project analyzes Tayseer's service channel usage and customer satisfaction 
 
 **SDAIA Academy:** https://github.com/SDAIAAcademy
 
-## 1. Audience, Decision Question & Scope
+##  Audience, Decision Question & Scope
 
 **Audience:** The Chief Executive Officer (CEO) of Tayseer.
 
