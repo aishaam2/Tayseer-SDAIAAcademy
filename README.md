@@ -7,7 +7,7 @@
 **SDAIA Academy:** https://github.com/SDAIAAcademy
 ## Project Description
 
-This project examines how Tayseer's service channel usage has changed over time and how customer satisfaction varies across channels. The analysis focuses on the relationship between transaction share trends and customer satisfaction across Web, Mobile App, Call Centre, and Branch.
+This project analysis how Tayseer's service channel usage has changed over time and how customer satisfaction varies across channels. The analysis focuses on the relationship between transaction share trends and customer satisfaction across Web, Mobile App, Call Centre, and Branch.
 
 
 
